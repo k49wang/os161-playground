@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sys161 kernel "p "uw-testbin/argtesttest oh no 350 is fucking hard";q"

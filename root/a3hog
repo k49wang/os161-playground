@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sys161 kernel "p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;p uw-testbin/hogparty;q"

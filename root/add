@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sys161 kernel "p "testbin/add 3 19";q"

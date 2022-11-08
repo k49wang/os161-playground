@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sys161 kernel "p uw-testbin/vm-data1;q"
+sys161 kernel "p uw-testbin/vm-data3;q"

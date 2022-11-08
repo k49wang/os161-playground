@@ -1,0 +1,5 @@
+#!/bin/bash
+sys161 kernel "sp3 4 15 0 1 0;q"
+sys161 kernel "sp3 1 150 1 1 0;q"
+sys161 kernel "sp3 10 80 0 1 0;q"
+sys161 kernel "sp3 2 300 0 1 1;q"

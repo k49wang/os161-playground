@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sys161 kernel "p uw-testbin/romemwrite"
+sys161 kernel "p uw-testbin/vm-crash2"
